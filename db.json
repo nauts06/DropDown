@@ -1,0 +1,14 @@
+{
+    "products": [
+      {
+        "title": "react tshirt",
+        "isCompleted": false,
+        "id": 1
+      },
+      {
+        "title": "Welcome to the nauts world",
+        "isCompleted": false,
+        "id": 2
+      }
+    ]
+  }

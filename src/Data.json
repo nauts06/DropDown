@@ -1,0 +1,284 @@
+
+  [
+    {
+      "Title": "Bollywood Dreams",
+      "Year": "1995",
+      "imdbID": "tt0114234",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQxOWQ5NzgtMjVkNS00NDJiLTg1NzgtY2FkY2FlNzFjYTEwXkEyXkFqcGdeQXVyMTAxNjY4MzY2._V1_SX300.jpg"
+    },
+    {
+      "Title": "Fabulous Lives of Bollywood Wives",
+      "Year": "2020–",
+      "imdbID": "tt13452100",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVlYWU2N2UtYzI0ZC00Njk1LWI1OTEtNmNlZTRiYzVmYTU4XkEyXkFqcGdeQXVyMTI2NjQ5MDI4._V1_SX300.jpg"
+    },
+    {
+      "Title": "Call My Agent Bollywood",
+      "Year": "2021–",
+      "imdbID": "tt13282662",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTVjMTdmYTItZWUzYi00OWRlLWIzZGEtMWYzMWIzNDRhMzMzXkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_SX300.jpg"
+    },
+    {
+      "Title": "Bollywood/Hollywood",
+      "Year": "2002",
+      "imdbID": "tt0303785",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFjMTBhOGEtYTEzZi00MGY3LWFmNWYtZjhjM2ZiYWQ5MWY3XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Bollywood Bound",
+      "Year": "2002",
+      "imdbID": "tt0296535",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzODczZjgtNGZiOS00OWQ4LWIzMWEtNDA3Y2NkODQ0N2Q0XkEyXkFqcGdeQXVyMTc1MDg4NTA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Bollywood im Alpenrausch",
+      "Year": "2000",
+      "imdbID": "tt0297032",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Sunset Bollywood",
+      "Year": "2005",
+      "imdbID": "tt1475415",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Bollywood Remixed - Das indische Kino erobert den Westen",
+      "Year": "2004",
+      "imdbID": "tt0772737",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Bollywood - Indiens klingendes Kino",
+      "Year": "2005",
+      "imdbID": "tt1037020",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Bollywood for Beginners",
+      "Year": "2002",
+      "imdbID": "tt0328903",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJkYTc3NzQtODViZi00MzY0LTlkYmMtMWJhZjdjOGQ2Zjc4XkEyXkFqcGdeQXVyMTE0NDMyMzQ@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Captain America: The First Avenger",
+      "Year": "2011",
+      "imdbID": "tt0458339",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Toxic Avenger",
+      "Year": "1984",
+      "imdbID": "tt0090190",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzViNmQ5MTYtMmI4Yy00N2Y2LTg4NWUtYWU3MThkMTVjNjk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Toxic Avenger Part II",
+      "Year": "1989",
+      "imdbID": "tt0098503",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhiNTljYTctMmIzZC00ZGVkLTk2NmItN2RjMzY3ZTYyNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Citizen Toxie: The Toxic Avenger IV",
+      "Year": "2000",
+      "imdbID": "tt0212879",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI0NWY0ODUtNGY3Yy00ZDU1LTllYjUtMDFkYWEzZGQwY2I1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Toxic Avenger Part III: The Last Temptation of Toxie",
+      "Year": "1989",
+      "imdbID": "tt0098502",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVlNzFjMGItMTEwYy00OTc0LWFmY2ItM2U0MmQyYWI5Njk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Avenger",
+      "Year": "2006",
+      "imdbID": "tt0473445",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjMwMjcyNl5BMl5BanBnXkFtZTcwNTA1NDgzMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Knives of the Avenger",
+      "Year": "1966",
+      "imdbID": "tt0059045",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzcxYjhjMDAtZmY4Yi00NmJlLTg4NDItNDBmYzljYzA3MmJmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Samurai Avenger: The Blind Wolf",
+      "Year": "2009",
+      "imdbID": "tt1243972",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjc4MTkyNjBeQTJeQWpwZ15BbWU3MDg3NTQyMzI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Avenger",
+      "Year": "1962",
+      "imdbID": "tt0056174",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNmOTEzN2YtYTcyMC00NDQ1LTg5NTMtMjQ3M2ZlOGU2YmFkXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Avenger",
+      "Year": "1960",
+      "imdbID": "tt0054257",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU5YzM3MmEtNTE2MS00MzVjLWI5Y2EtNGU3M2YwMGYzMGQ0XkEyXkFqcGdeQXVyMDExMzA0Mw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor",
+      "Year": "2011",
+      "imdbID": "tt0800369",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor: Ragnarok",
+      "Year": "2017",
+      "imdbID": "tt3501632",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor: The Dark World",
+      "Year": "2013",
+      "imdbID": "tt1981115",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor: Love and Thunder",
+      "Year": "2022",
+      "imdbID": "tt10648342",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Team Thor",
+      "Year": "2016",
+      "imdbID": "tt6016776",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmEyODRkYmQtMjM3Yi00ZTkxLWI0NWEtOTJhMzBjNWY5MjJjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor: Tales of Asgard",
+      "Year": "2011",
+      "imdbID": "tt1667903",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTU4NzIxMV5BMl5BanBnXkFtZTcwNzE3NjAxNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Team Thor: Part 2",
+      "Year": "2017",
+      "imdbID": "tt6599818",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODczODMwOTgtODhkOC00YjFiLWIzYmUtZTI3NThhZDE1NDhkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Valhalla - The Legend of Thor",
+      "Year": "2019",
+      "imdbID": "tt8956872",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA0OGZjODctYjg2ZS00YWQ1LWEyZjgtMDZkNmYyZDAwYzg0XkEyXkFqcGdeQXVyMzcwNjA5Mzg@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Almighty Thor",
+      "Year": "2011",
+      "imdbID": "tt1792794",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjI5MTAzNF5BMl5BanBnXkFtZTcwNTcyOTIwNQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Thor: Finding Korg",
+      "Year": "2018",
+      "imdbID": "tt8513006",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI0ZmZlYzktZWNhMC00YjYwLThhZDItOGE4MTg1ZDM1YTMxXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Iron Giant",
+      "Year": "1999",
+      "imdbID": "tt0129167",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxNDU2Njk0OV5BMl5BanBnXkFtZTgwODc3Njc3NjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man in the Iron Mask",
+      "Year": "1998",
+      "imdbID": "tt0120744",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Fist",
+      "Year": "2017–2018",
+      "imdbID": "tt3322310",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmI5NDM2YzYtYThiMC00ZjRjLWJlNGItYWY1ZjhlNTViMjFkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Iron Lady",
+      "Year": "2011",
+      "imdbID": "tt1007029",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEzNDUyMDE3NF5BMl5BanBnXkFtZTcwMTgzOTg3Ng@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Sky",
+      "Year": "2012",
+      "imdbID": "tt1034314",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Man with the Iron Fists",
+      "Year": "2012",
+      "imdbID": "tt1258972",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5ODI3ODkzOV5BMl5BanBnXkFtZTcwMTQxNjUwOA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "3-Iron",
+      "Year": "2004",
+      "imdbID": "tt0423866",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBmODdkMzItNTk0NS00MDc5LWFmZjgtNmNlZmNhMzFlMmQ3XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg"
+    }
+  ]
+
